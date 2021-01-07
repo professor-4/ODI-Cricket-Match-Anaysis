@@ -3,7 +3,7 @@
  * [Introductin](#Introduction)
  * [Front](#Front)
  * [Objective](#Objective)
- * [Source of data](#Sorce-of-data)
+ * [Source of data](#Source-of-data)
  * [Dashboard](#Dashboard)
 
 ______________________________________________
